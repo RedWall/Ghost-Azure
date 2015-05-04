@@ -53,7 +53,7 @@ hr {
 }
 mark { background: #FF0; color: #000; }
 code, kbd, pre,
-samp { font-family: monospace, serif; font-size: 1em; line-height: 1em; }
+samp { font-family: Inconsolata, monospace, sans-serif; font-size: .8em; line-height: normal; }
 pre { white-space: pre-wrap; }
 /*Prettify*/
 li.L0, li.L1, li.L2, li.L3,

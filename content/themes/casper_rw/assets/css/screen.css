@@ -53,13 +53,8 @@ hr {
 }
 mark { background: #FF0; color: #000; }
 /*code, kbd, pre,
-samp { font-family: Inconsolata, monospace, sans-serif; font-size: .8em; line-height: normal; }
+samp { font-family: monospace, serif; font-size: 1em; }
 pre { white-space: pre-wrap; }*/
-/*Prettify*/
-li.L0, li.L1, li.L2, li.L3,
-li.L5, li.L6, li.L7, li.L8
-{ list-style-type: decimal !important }
-/*/Prettify*/
 q { quotes: "\201C" "\201D" "\2018" "\2019"; }
 small { font-size: 80%; }
 sub, sup {
